@@ -20,6 +20,7 @@ Create a custom domain in the hosts file of your system
     sudo gedit /etc/hosts
 
 And proceed to add your custom host. In this example, our ip will be 127.0.0.5 and the domain myawesomeproject. So finally, our hosts file will look like:
+
     127.0.0.1	localhost
     127.0.0.5	myawesomeproject
 
